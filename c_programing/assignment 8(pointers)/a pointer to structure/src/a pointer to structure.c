@@ -7,7 +7,8 @@
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
-
+/*Write a program in C to show a pointer to an array which contents
+are pointer to structure.*/
 #include <stdio.h>
 #include <stdlib.h>
 struct data {
