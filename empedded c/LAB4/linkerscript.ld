@@ -1,4 +1,4 @@
-/* 	Bolis Karam
+/* 	Diaa Mohamed
 	Linker_Script 
  	cortex-m4
  */
