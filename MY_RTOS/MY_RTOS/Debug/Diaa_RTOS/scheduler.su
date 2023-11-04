@@ -1,0 +1,16 @@
+../Diaa_RTOS/scheduler.c:41:7:OS_IdeleTask	4	static,ignoring_inline_asm
+../Diaa_RTOS/scheduler.c:51:6:MYRTOS_init_mainStack	4	static
+../Diaa_RTOS/scheduler.c:62:6:MyRTOS_Create_TaskStack	24	static
+../Diaa_RTOS/scheduler.c:98:16:MYRTOS_CreateTask	24	static
+../Diaa_RTOS/scheduler.c:134:16:MYRTOS_init	16	static
+../Diaa_RTOS/scheduler.c:166:6:OS_SVC_SET	16	static,ignoring_inline_asm
+../Diaa_RTOS/scheduler.c:193:6:BubbleSort	24	static
+../Diaa_RTOS/scheduler.c:212:6:MyRTOS_Update_Schadule_tables	24	static
+../Diaa_RTOS/scheduler.c:301:6:MYRTOS_ActivateTask	16	static
+../Diaa_RTOS/scheduler.c:306:6:MYRTOS_TerminateTask	16	static
+../Diaa_RTOS/scheduler.c:314:28:PendSV_Handler	0	static,ignoring_inline_asm
+../Diaa_RTOS/scheduler.c:381:6:Decide_WhatNextTask	8	static
+../Diaa_RTOS/scheduler.c:425:7:OS_SVC_Handle	24	static
+../Diaa_RTOS/scheduler.c:462:6:MYRTOS_STARTOS	8	static,ignoring_inline_asm
+../Diaa_RTOS/scheduler.c:481:6:Task_wait_handle	16	static
+../Diaa_RTOS/scheduler.c:504:6:MYRTOS_TaskWait	16	static

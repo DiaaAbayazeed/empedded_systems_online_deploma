@@ -1,0 +1,12 @@
+I:/Arm Architecture Tests/session1/MY_OS/CMSIS_Driver/core_cm3.h:1639:22:__NVIC_SetPriority	2
+I:/Arm Architecture Tests/session1/MY_OS/CMSIS_Driver/core_cm3.h:1837:26:SysTick_Config	2
+../Diaa_RTOS/OS_porting.c:11:6:NMI_Handler	1
+../Diaa_RTOS/OS_porting.c:18:6:HardFault_Handler	1
+../Diaa_RTOS/OS_porting.c:25:6:MemManage_Handler	1
+../Diaa_RTOS/OS_porting.c:32:6:BusFault_Handler	1
+../Diaa_RTOS/OS_porting.c:39:6:UsageFault_Handler	1
+../Diaa_RTOS/OS_porting.c:47:6:HW_init	1
+../Diaa_RTOS/OS_porting.c:58:28:SVC_Handler	1
+../Diaa_RTOS/OS_porting.c:69:6:trigger_OS_PendSV	1
+../Diaa_RTOS/OS_porting.c:78:6:Start_Ticker	1
+../Diaa_RTOS/OS_porting.c:92:6:SysTick_Handler	1

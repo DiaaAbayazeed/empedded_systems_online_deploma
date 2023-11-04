@@ -1,0 +1,5 @@
+../Diaa_RTOS/FIFO_stack.c:13:15:FIFO_init	2
+../Diaa_RTOS/FIFO_stack.c:30:15:FIFO_enqueue	6
+../Diaa_RTOS/FIFO_stack.c:60:15:FIFO_dequeue	5
+../Diaa_RTOS/FIFO_stack.c:88:15:FIFO_is_full	5
+../Diaa_RTOS/FIFO_stack.c:100:6:FIFO_print	1
